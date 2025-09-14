@@ -15,7 +15,6 @@ _A simple, elegant Kanban board built with HTML, CSS, and JavaScript.
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-## Features
 
 ## ✨ Features
 - 📋 Create, edit, and delete tasks.  
