@@ -27,8 +27,7 @@ This App stimulates the Managment Tasks Easily ..
 
 ## 📸 Demo
 
-> _Enter This Link to view my website  
-[Demo](https://aiman-enginner.github.io/TasksFlow/)
+>Enter This Link to view my website [Demo](https://aiman-enginner.github.io/TasksFlow/)
 
 ## 🚀 Getting Started
 
