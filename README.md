@@ -1,9 +1,10 @@
 
-# # TaskFlow — Simple App
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" alt="TaskFlow Logo" width="120"/>
+</p>
 
-
-This App stimulates the Managment Tasks Easily ..
-
+# TaskFlow 🗂️  
+_A simple, elegant Kanban board built with HTML, CSS, and JavaScript.
 
 ## Badges
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
