@@ -23,7 +23,6 @@ _A simple, elegant Kanban board built with HTML, CSS, and JavaScript.
 - 💾 Save board state locally (using browser storage).  
 - ⚡ 100% Vanilla JavaScript — no frameworks required.  
 
-## Demo
 
 ## 📸 Demo
 
